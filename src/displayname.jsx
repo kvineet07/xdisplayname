@@ -31,7 +31,7 @@ function Displayname(){
                   <h2> Full Name: {fullname}</h2>
                 </div>)
               }
-              {error && <p style={{ color: "red" }}>{error}</p>}
+              {/* {error && <p style={{ color: "red" }}>{error}</p>} */}
            </div>
 
 
